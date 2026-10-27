@@ -1,0 +1,6 @@
+{
+  "name": "Vanguard: Tactical Ballistics & Combat",
+  "description": "Tactical army combat simulator with realistic physics-driven ballistics, detailed procedural weapon handling, animations, and combat encounters.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
